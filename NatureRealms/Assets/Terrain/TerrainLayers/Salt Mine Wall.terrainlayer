@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1953259897 &8574412962073106934
+TerrainLayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Salt Mine Wall
+  m_DiffuseTexture: {fileID: 2800000, guid: 5d49cc116d4b907408183de62aa437db, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 97c591825e14c33468c8a3f98eb3f9a3, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 7965f6551fc8f4748b6d0b28dca7567b, type: 3}
+  m_TileSize: {x: 0.5, y: 0.5}
+  m_TileOffset: {x: 0, y: 0}
+  m_Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_Metallic: 0
+  m_Smoothness: 0
+  m_NormalScale: 1
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 0}
