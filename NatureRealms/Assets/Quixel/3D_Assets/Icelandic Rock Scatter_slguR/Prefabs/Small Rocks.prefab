@@ -1,0 +1,1000 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8338764958951610159
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8338764958951610156}
+  m_Layer: 0
+  m_Name: Small Rocks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8338764958951610156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8338764958951610159}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7669107428568336519}
+  - {fileID: 8899618938877102843}
+  - {fileID: 8899618939415629860}
+  - {fileID: 7150983639548194875}
+  - {fileID: 8367076131991039998}
+  - {fileID: 8930423321873161400}
+  - {fileID: 1540471227239895425}
+  - {fileID: 6856333474383481235}
+  - {fileID: 2466073569744905307}
+  - {fileID: 7103127080266841734}
+  - {fileID: 2788474202571034222}
+  - {fileID: 2236328574497964656}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &494853776985686704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.318
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.30975318
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.950817
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 216.089
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222783496808996054, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var1 (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73cb7c31ed7dd664fac6ef7f76b0041e, type: 3}
+--- !u!4 &2236328574497964656 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+    type: 3}
+  m_PrefabInstance: {fileID: 494853776985686704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2114484703001037736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.827
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.178
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.593
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.39884272
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.91701937
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 132.988
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557058006626695468, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var2 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fd55d977eb666641aacf2f1d92dd9ad, type: 3}
+--- !u!4 &1540471227239895425 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+    type: 3}
+  m_PrefabInstance: {fileID: 2114484703001037736}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3026896213633416818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: -0.7050793
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.75251
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.75251
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.394
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.11854
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.341
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8741634
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.48563197
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 58.108
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557058006626695468, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var2 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fd55d977eb666641aacf2f1d92dd9ad, type: 3}
+--- !u!4 &2466073569744905307 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+    type: 3}
+  m_PrefabInstance: {fileID: 3026896213633416818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3353585550921667655
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: -0.7050793
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.75251
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.75251
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.409
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.11854
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.349
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.05900584
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9982577
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -186.766
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557058006626695468, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var2 (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fd55d977eb666641aacf2f1d92dd9ad, type: 3}
+--- !u!4 &2788474202571034222 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+    type: 3}
+  m_PrefabInstance: {fileID: 3353585550921667655}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5112021988537305427
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.71899
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.291
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.079
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.792
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.30806872
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9513641
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 144.114
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222783496808996054, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var1 (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73cb7c31ed7dd664fac6ef7f76b0041e, type: 3}
+--- !u!4 &6856333474383481235 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+    type: 3}
+  m_PrefabInstance: {fileID: 5112021988537305427}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7077449335241366648
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.685
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.079
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.829
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.11093472
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9938277
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -192.738
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222783496808996054, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var1 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73cb7c31ed7dd664fac6ef7f76b0041e, type: 3}
+--- !u!4 &8930423321873161400 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+    type: 3}
+  m_PrefabInstance: {fileID: 7077449335241366648}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7911357209626701630
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.659
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.079
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.818
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.87549084
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.4832348
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -57.794
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222783496808996054, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var1 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73cb7c31ed7dd664fac6ef7f76b0041e, type: 3}
+--- !u!4 &8367076131991039998 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+    type: 3}
+  m_PrefabInstance: {fileID: 7911357209626701630}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8338764959478630925
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: -0.93697
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.826
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.139
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.642
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.95785195
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.2872626
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -33.388
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557058006626695468, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var2 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fd55d977eb666641aacf2f1d92dd9ad, type: 3}
+--- !u!4 &8899618939415629860 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+    type: 3}
+  m_PrefabInstance: {fileID: 8338764959478630925}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8338764959775180871
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.789
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.074
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.009
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222783496808996054, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73cb7c31ed7dd664fac6ef7f76b0041e, type: 3}
+--- !u!4 &7669107428568336519 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+    type: 3}
+  m_PrefabInstance: {fileID: 8338764959775180871}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8338764960014012626
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.307
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.162
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.743
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.13469905
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.99088657
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 195.482
+      objectReference: {fileID: 0}
+    - target: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557058006626695468, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fd55d977eb666641aacf2f1d92dd9ad, type: 3}
+--- !u!4 &8899618938877102843 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 592490297091938857, guid: 3fd55d977eb666641aacf2f1d92dd9ad,
+    type: 3}
+  m_PrefabInstance: {fileID: 8338764960014012626}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8857031966123995387
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.851
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.255
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.71556336
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6985479
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 88.621
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222783496808996054, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var1 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73cb7c31ed7dd664fac6ef7f76b0041e, type: 3}
+--- !u!4 &7150983639548194875 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+    type: 3}
+  m_PrefabInstance: {fileID: 8857031966123995387}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8882358969511509574
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8338764958951610156}
+    m_Modifications:
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.77903
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.77903
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.77903
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.019
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.069987
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.824
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6308559
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7759
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -101.773
+      objectReference: {fileID: 0}
+    - target: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222783496808996054, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+        type: 3}
+      propertyPath: m_Name
+      value: Icelandic Rock Scatter_slguR_Var1 (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73cb7c31ed7dd664fac6ef7f76b0041e, type: 3}
+--- !u!4 &7103127080266841734 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1861985687176200384, guid: 73cb7c31ed7dd664fac6ef7f76b0041e,
+    type: 3}
+  m_PrefabInstance: {fileID: 8882358969511509574}
+  m_PrefabAsset: {fileID: 0}
