@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelLoad
+  - GameManager
+  - Jungle
+  - SamplesInfoPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CameraOverlayFade
+  - Water
+  - UI
+  - Persistent
+  - Stencil Layer 1
+  - Stencil Layer 2
+  - Stencil Layer 3
+  - Triggers
+  - Rain
+  - No Peeking
+  - TriggersAudio
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
